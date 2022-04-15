@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kavithaprajod@gmail.com
+	name = Kavitha KC
